@@ -1,0 +1,16 @@
+C:\Dev\MultiLangApp\MultiLangApp\bin\Debug\netstandard2.0\MultiLangApp.deps.json
+C:\Dev\MultiLangApp\MultiLangApp\bin\Debug\netstandard2.0\MultiLangApp.dll
+C:\Dev\MultiLangApp\MultiLangApp\bin\Debug\netstandard2.0\MultiLangApp.pdb
+C:\Dev\MultiLangApp\MultiLangApp\bin\Debug\netstandard2.0\nl\MultiLangApp.resources.dll
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.Resources.AppResources.resources
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.Resources.AppResources.nl.resources
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.csproj.GenerateResource.Cache
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.csproj.CoreCompileInputs.cache
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.App.xaml.g.cs
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.MainPage.xaml.g.cs
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.AssemblyInfoInputs.cache
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.AssemblyInfo.cs
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\nl\MultiLangApp.resources.dll
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.dll
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.pdb
+C:\Dev\MultiLangApp\MultiLangApp\obj\Debug\netstandard2.0\MultiLangApp.csprojResolveAssemblyReference.cache

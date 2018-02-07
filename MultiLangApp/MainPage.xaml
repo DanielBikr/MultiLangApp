@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MultiLangApp"
+             x:Class="MultiLangApp.MainPage">
+
+    <StackLayout Spacing="20" Margin="20">
+        <Switch IsToggled="{Binding IsLangNL, Mode=TwoWay}" />
+
+        <Label Text="{Binding Age}" 
+                   HorizontalOptions="Start" />
+        <Entry HorizontalOptions="StartAndExpand"/>
+        <Label Text="{Binding Address}" 
+                   HorizontalOptions="Start" />
+        <Entry HorizontalOptions="StartAndExpand"/>
+    </StackLayout>
+</ContentPage>
